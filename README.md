@@ -3,8 +3,7 @@
 This dashboard analyzes the Austin, Texas housing market over time, highlighting **price trends, transaction volume, inventory conditions, and macro-level market phases.**
 
 ### 🎯 Key Insights
-| Metric (Latest) | Value | Interpretation |
-|---|---|---|
+| Metric (Latest) | Value | Interpretation ||---|---|---|
 | **Median Sale Price** | **$507,000** | Prices remain above pre-2020 trend levels. |
 | **YoY Price Change** | **-9%** | Market cooling after rapid 2020–2022 boom. |
 | **Market Phase** | **2023–Present: Correction Phase** | Demand softening + increased inventory. |
@@ -32,14 +31,14 @@ This dashboard helps:
 ### 🛠 Tech Stack
 | Component | Tool |
 |---|---|
-| Data Cleaning | Python / Pandas (optional) |
+| Data Cleaning | Python / Pandas |
 | Visualization | **Power BI Desktop** |
 | Version Control | Git + GitHub |
 
 ---
 
 ### 📁 Project Structure
-![Dashboard Preview](Screenshot_7-11-2025_165559_chatgpt.com.jpeg)
+![Dashboard Preview](project_structure.jpeg)
 
 # Austin Home Price Analysis
 
